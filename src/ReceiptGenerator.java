@@ -4,12 +4,10 @@ public class ReceiptGenerator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-
         String[] itemNames = new String[3];
-        double[] itemPrices = new double[3];
         double subtotal = 0.0;
 
-        // Input item names and prices
+        double[] itemPrices = new double[3];
         for (int i = 0; i < 3; i++) {
             System.out.print("Enter the name of item " + (i + 1) + ": ");
             itemNames[i] = scanner.nextLine();

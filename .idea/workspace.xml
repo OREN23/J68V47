@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54a613d8-24fa-4b0d-8b42-f9336adbce5a" name="Changes" comment="hello world">
+    <list default="true" id="54a613d8-24fa-4b0d-8b42-f9336adbce5a" name="Changes" comment="20/09/2023">
+      <change afterPath="$PROJECT_DIR$/src/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShippingCharges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Usernames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Viva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VivaADAPTADO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HaikuDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HaikuDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReceiptGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReceiptGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +34,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2UhsHMDy8HTixwaUntmp1JTvg8X" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,6 +88,13 @@
       <workItem from="1694001525061" duration="379000" />
       <workItem from="1694002057347" duration="201000" />
       <workItem from="1694003110371" duration="592000" />
+      <workItem from="1694014525033" duration="202000" />
+      <workItem from="1694014745628" duration="714000" />
+      <workItem from="1694027283308" duration="349000" />
+      <workItem from="1694173629880" duration="4000" />
+      <workItem from="1694607915601" duration="4343000" />
+      <workItem from="1695203748089" duration="58000" />
+      <workItem from="1695205141549" duration="1855000" />
     </task>
     <task id="LOCAL-00001" summary="hello world">
       <option name="closed" value="true" />
@@ -124,7 +139,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello world" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello world" />
+    <MESSAGE value="20/09/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="20/09/2023" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/J68V47___classwork$Main.ic" NAME="Main Coverage Results" MODIFIED="1694002221156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
